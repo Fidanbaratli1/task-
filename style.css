@@ -1,0 +1,15 @@
+.to-do-wrapper{
+    border: 1px solid darkgreen;
+    border-radius: 6px;
+    padding: 20px;
+}
+.container{
+    margin-top: 200px;
+}
+.wrapper{
+    width: 90%;
+    margin:0 auto;
+}
+.wrapper form,ul{
+    width:100%
+}
